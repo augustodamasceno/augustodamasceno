@@ -12,7 +12,8 @@ I build high-performance systems where software meets hardware, specializing in 
 
 ### Notes & Research  
 
-* **[Knowledge Journal](https://github.com/augustodamasceno/knowledge-journal)**: Knowledge Journal is a structured collection of notes on engineering, programming, artificial intelligence, mathematics, economics, and other related fields.  
+* **[Knowledge Journal](https://github.com/augustodamasceno/knowledge-journal)**: Knowledge Journal is a structured collection of notes on engineering, programming, artificial intelligence, mathematics, economics, and other related fields.
+* **[Micrometrics](https://github.com/augustodamasceno/micrometrics)**: Precision profiling and behavioral analysis suite for fundamental language constructs and data structure scenarios.  
 
 ---
 
