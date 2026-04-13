@@ -1,32 +1,56 @@
 # Augusto Damasceno
-Computer Engineer focusing on AI, Embedded Systems, and Quant Trading.
+
+Computer Engineer · AI · Embedded Systems · Quant Trading
 
 I build high-performance systems where software meets hardware, specializing in low-latency execution and autonomous AI.
 
 ---
 
-### Project Portfolio  
+### Projects
 
-* **[Project Gabriel](https://github.com/augustodamasceno/gabriel-teleop-platform)**: A modular teleoperation platform for remote-controlled vehicles designed with a video-game-inspired interface. It integrates Angular, C++, C, Python, Linux, Real-Time Control, and Machine Learning.
-* **[Market Data](https://github.com/augustodamasceno/marketdata)**: Open source base project for trading indicators, strategies and bots.
+**[Gabriel](https://github.com/augustodamasceno/gabriel-teleop-platform)**
+Modular teleoperation platform for remote-controlled vehicles with a video-game-inspired interface. Integrates C++, Python, Angular, Linux, real-time control, and machine learning.
 
-### Notes & Research  
+**[Market Data](https://github.com/augustodamasceno/marketdata)**
+Open-source base for trading indicators, strategies, and bots.
 
-* **[Knowledge Journal](https://github.com/augustodamasceno/knowledge-journal)**: Knowledge Journal is a structured collection of notes on engineering, programming, artificial intelligence, mathematics, economics, and other related fields.
-* **[Micrometrics](https://github.com/augustodamasceno/micrometrics)**: Precision profiling and behavioral analysis suite for fundamental language constructs and data structure scenarios.  
+---
+
+### Notes & Research
+
+**[Knowledge Journal](https://github.com/augustodamasceno/knowledge-journal)**
+Structured notes on engineering, AI, mathematics, and economics.
+
+**[Micrometrics](https://github.com/augustodamasceno/micrometrics)**
+Precision profiling suite for fundamental language constructs and data structures.
+
+---
+
+### Tooling
+
+**[Dotfiles](https://github.com/augustodamasceno/dotfiles)**
+VSCode, i3 WM, and C++ toolchain for Unix and Windows.
+
+**[GSH — Gin Shell](https://github.com/augustodamasceno/gsh)**
+Collection of Bash scripts for daily automation.
+
+**[vimlink](https://github.com/augustodamasceno/vimlink)**
+Vim and Neovim setup configurations.
 
 ---
 
 ### Skills
 
-* **Programming**: C, C++, C#, Python, Bash
-* **Engineering Tools**: MATLAB, Simulink, AMD/Xilinx FPGA Design
-* **AI & Data Science**: TensorFlow/Keras, PyTorch, Scikit-learn, Pandas, NumPy, PyGAD, skfuzzy
-* **Advanced AI**: LLM, RAG, MCP, Neural Networks, PCA, Genetic Algorithms, Fuzzy Logic
-* **Infrastructure**: Linux, Docker, Kubernetes, AWS, Ansible
-* **Visualization & Data**: PostgreSQL, Grafana, Plotly
-* **Trading Platforms**: NinjaTrader, Interactive Brokers TWS, MetaTrader 5
+| Area | Technologies |
+|---|---|
+| Programming | C · C++ · C# · Python · Bash |
+| Engineering | MATLAB · Simulink · AMD/Xilinx FPGA |
+| AI & Data Science | TensorFlow · PyTorch · Scikit-learn · Pandas · NumPy · PyGAD · skfuzzy |
+| Advanced AI | LLM · RAG · MCP · Neural Networks · PCA · Genetic Algorithms · Fuzzy Logic |
+| Infrastructure | Linux · Docker · Kubernetes · AWS · Ansible |
+| Data & Viz | PostgreSQL · Grafana · Plotly |
+| Trading | NinjaTrader · IBKR TWS · MetaTrader 5 |
 
 ---
 
-**Links**: [augustodamasceno.org](https://augustodamasceno.org) | [LinkedIn](https://linkedin.com/in/augustodamasceno)
+[augustodamasceno.org](https://augustodamasceno.org) · [LinkedIn](https://linkedin.com/in/augustodamasceno)
