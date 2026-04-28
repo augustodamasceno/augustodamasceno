@@ -19,7 +19,7 @@ Open-source base for trading indicators, strategies, and bots.
 ### Notes & Research
 
 **[Knowledge Journal](https://github.com/augustodamasceno/knowledge-journal)**
-Structured notes on engineering, AI, mathematics, and economics.
+Structured collection of notes on engineering, programming, artificial intelligence, mathematics, economics, and other related fields.  
 
 **[Micrometrics](https://github.com/augustodamasceno/micrometrics)**
 Precision profiling suite for fundamental language constructs and data structures.
@@ -29,13 +29,12 @@ Precision profiling suite for fundamental language constructs and data structure
 ### Tooling
 
 **[Dotfiles](https://github.com/augustodamasceno/dotfiles)**
-VSCode, i3 WM, and C++ toolchain for Unix and Windows.
 
 **[GSH — Gin Shell](https://github.com/augustodamasceno/gsh)**
-Collection of Bash scripts for daily automation.
+Collection of Bash scripts.
 
 **[vimlink](https://github.com/augustodamasceno/vimlink)**
-Vim and Neovim setup configurations.
+Vim and Neovim setups.
 
 ---
 
