@@ -11,8 +11,8 @@ I build high-performance systems where software meets hardware, specializing in 
 **[Gabriel](https://github.com/augustodamasceno/gabriel-teleop-platform)**
 Modular teleoperation platform for remote-controlled vehicles with a video-game-inspired interface. Integrates C++, Python, Angular, Linux, real-time control, and machine learning.
 
-**[Market Data](https://github.com/augustodamasceno/marketdata)**
-Open-source base for trading indicators, strategies, and bots.
+**[Market Kernel](https://github.com/augustodamasceno/market-kernel)**
+A C++ base library for building trading indicators, strategies, and bots powered by neural networks, fuzzy logic, and genetic algorithms.
 
 ---
 
