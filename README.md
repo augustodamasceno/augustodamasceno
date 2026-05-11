@@ -29,7 +29,7 @@ Precision profiling suite for fundamental language constructs and data structure
 ### Tooling
 
 **[Dotfiles](https://github.com/augustodamasceno/dotfiles)**
-Toolchains, editors, LLM, vs code, i3, vim, neovim, bash, db playgrounds.
+Toolchains, doc ci/cd, editors, LLM, vs code, i3, vim, neovim, bash, db playgrounds.
 
 **[GSH — Gin Shell](https://github.com/augustodamasceno/gsh)**
 Collection of Bash scripts.
